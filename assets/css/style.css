@@ -1,0 +1,69 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+
+}
+
+hr{
+  background-color: black;
+  width: 25%;
+}
+header  {
+text-align: right;
+background-image:  url('../img/20190727_144744.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+color: #ffffff;
+text-shadow: 100rem #707070;
+padding: 25rem;
+background-position: center;
+
+}
+header h2 {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.oscuro {
+  color: #660066 100%;
+  height: 8rem;
+}
+
+.oscuro{
+background: #660066;
+  color:#ffffff ;
+}
+
+.oscuro a{
+  color: #ffffff;
+  text-decoration:none;
+}
+
+section id{
+  background: #660066;
+}
+
+section experiencia{
+  background-color: #660066;
+}
+
+.purple{
+  background-color:#660066;
+
+}
+.bg-cards {
+  background-color: #660066;
+}
+
+.blu{
+color:#660066;
+}
+
+.blu h3{
+  color: #373A3C;
+}
+.inicial{
+  font-size: 2rem;
+  font-weight: 700;
+}
